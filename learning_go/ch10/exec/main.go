@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	r := math.Add(1, 2)
+	r := math.Add(1.2, 2)
 	fmt.Println(r)
 }

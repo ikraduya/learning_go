@@ -1,0 +1,1 @@
+go test -fuzz=Fuzz_parser -fuzztime=2m
